@@ -1,0 +1,3 @@
+PaginaA: 2 visitas!
+    PaginaB: 1 visitas!
+    PaginaC: 3 visitas!
